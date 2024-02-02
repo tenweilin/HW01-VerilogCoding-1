@@ -1,2 +1,2 @@
 # HW01-VerilogCoding-1
-Verilog source files nor gates statement
+Verilog source files(module and testbench) of nor gates statement
